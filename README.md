@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![eilyri's GitHub stats](https://github-readme-stats.vercel.app/api?username=eilyri&show_icons=true&theme=dracula)
-
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eilyri&layout=compact)](https://github.com/eilyri/github-readme-stats)
 
 <!--
